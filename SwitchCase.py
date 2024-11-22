@@ -1,4 +1,4 @@
-//Code in Python
+//Python code
 from typing import *
 import math
 
