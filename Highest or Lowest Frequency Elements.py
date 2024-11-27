@@ -1,4 +1,4 @@
-from typing import List
+ from typing import List
 from collections import Counter
 def getFrequencies(v: List[int]) -> List[int]: 
     frequency= Counter(v)
